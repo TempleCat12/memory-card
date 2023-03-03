@@ -40,4 +40,5 @@ const images = [
     src: "../images/image04.png",
   },
 ];
+
 export default images;
